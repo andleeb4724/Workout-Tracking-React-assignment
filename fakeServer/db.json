@@ -1,0 +1,31 @@
+{
+  "workouts": [
+    {
+      "id": 3,
+      "workout": "Push-ups",
+      "CBPM": 100,
+      "desc": "Improves upper body strength.",
+      "startTime": "2022-11-04T11:50:55.680Z",
+      "endTime": "2022-11-04T11:51:38.707Z",
+      "TotalCalories": null
+    },
+    {
+      "id": 4,
+      "workout": "Cycling",
+      "CBPM": 1200,
+      "desc": "Cycling burn calories",
+      "startTime": "2022-11-04T10:51:13.884Z",
+      "endTime": "2022-11-04T12:00:58.336Z",
+      "TotalCalories": 83689.04
+    },
+    {
+      "workout": "Yoga",
+      "CBPM": "50",
+      "desc": "asdfghn",
+      "id": 5,
+      "startTime": "2022-11-04T10:52:26.478Z",
+      "endTime": "2022-11-04T12:00:56.304Z",
+      "TotalCalories": 3424.855
+    }
+  ]
+}
